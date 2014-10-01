@@ -6,4 +6,4 @@ Finally committing this to my git account, had this working for over a year and 
 * unpack the archive
 * execute this script (as root).
 
-###### ian mcmurray - aug 2013 - donations appreciated qNed1vapV1znvM2octi38jie1y9Bv6GfsS
+###### ian mcmurray - Sept 2014 - donations appreciated qNed1vapV1znvM2octi38jie1y9Bv6GfsS
